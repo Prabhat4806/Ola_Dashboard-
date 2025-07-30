@@ -111,15 +111,15 @@ Customer Satisfaction: Compare ratings across segments to pinpoint service incon
 ### 6. Screenshots / Demos
 
 Overall Overview – Alt text: “Dashboard homepage with date slicer (7/1–7/30), KPI cards for total bookings/value, booking status pie chart, and daily ride volume line chart.”
-Example: image1
+Example: image1(https://github.com/Prabhat4806/Ola_Dashboard-/blob/main/image1.png)
 
 Vehicle Type Performance – Alt text: “Green‑bordered table listing seven vehicle types with booking values, success values, avg. distance, and total distance columns.”
-Example: image2
+Example: image2(https://github.com/Prabhat4806/Ola_Dashboard-/blob/main/image2.png)
 
 Revenue Insights – Alt text: “Bar charts of revenue by payment method and daily ride distance; top‑5 customers table at top right.”
-Example: image3
+Example: image3(https://github.com/Prabhat4806/Ola_Dashboard-/blob/main/image3.png)
 
 Cancellation Analysis – Alt text: “KPI cards for cancellations and two pie charts: customer vs. driver cancellation reasons.”
-Example: image4
+Example: image4(https://github.com/Prabhat4806/Ola_Dashboard-/blob/main/image4.png)
 Ratings Summary – Alt text: “Tables of driver and customer average ratings per vehicle type, arranged side by side.”
-Example: image5
+Example: image5(https://github.com/Prabhat4806/Ola_Dashboard-/blob/main/image5.png)
